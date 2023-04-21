@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f8f8;
+    background-color: white;
+}
+
+.container {
+    background-color: pink;
+    color: #30095c;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+}
+
+.name {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+.contact {
+    margin-top: 0;
+    font-size: 18px;
+    color: #999;
+}
+
+.container_1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #30095c;
+}
+
+.objective {
+    font-size: 10px;
+    line-height: 1;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.container_2 {
+    width: 10px;
+    border-bottom: 4px solid darkblue;
+    border-right: 4px solid darkblue;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container_3 {
+    width: 10px;
+    border-bottom: 4px solid darkblue;
+    padding: 0px;
+    margin: 0px;
+}
+
+.summary {
+    font-size: 12px;
+    line-height: 0.5;
+}
+
+.skills {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.skills li {
+    margin-bottom: 5px;
+}
+
+.education {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.icons {
+    height: 80px;
+    text-align: center;
+    margin-left: 0px;
+}
+
+.year {
+    font-size: 12px;
+    margin: 10px;
+    margin-left: 50px;
+}
+
+.year-awards {
+    font-size: 12px;
+    margin: 10px;
+    margin-left: 15px;
+
+}
+
+.designation {
+    font-size: 12px;
+    margin-left: 85px;
+
+}
+
+.designation-awards {
+    font-size: 12px;
+    margin-left: 20px;
+
+}
+
+.sub-para {
+    margin-left: 145px;
+    font-size: 10px;
+}
+
+.sub-para-awards {
+    margin-left: 47px;
+    font-size: 10px;
+}
+
+.checklist-icon {
+    text-align: center;
+}
+
+.skills-heading {
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+
+}
+
+.skills-progress {
+    font-size: 1px;
+    width: 10px;
+    margin-left: 80px;
+}
+
+.skills-progress-1 {
+    font-size: 1px;
+    width: 10px;
+    margin: 10px;
+}
+
+.skills-progress-2 {
+    font-size: 1px;
+    width: 10px;
+    margin: 2px;
+}
+
+.skills-progress-0 {
+    font-size: 1px;
+    width: 10px;
+    margin: 10px;
+    margin-left: 15px;
+    margin-right: 1px;
+}
+
+.skills-progress-5 {
+    font-size: 1px;
+    width: 10px;
+    margin: 10px;
+    margin-left: 2px;
+    margin-right: 1px;
+}
+
+.skills-progress-typo {
+    font-size: 1px;
+    width: 10px;
+    margin: 10px;
+    margin-left: 50px;
+
+}
+
+.skills-progress-typo1 {
+    font-size: 1px;
+    width: 10px;
+    margin: 10px;
+    margin-left: 10px;
+
+}
+
+.skills-progress-video {
+    font-size: 1px;
+    width: 10px;
+    margin: 10px;
+    margin-left: 22px;
+
+}
+
+.img-1 {
+    width: 50px;
+    margin-left: 20px;
+
+}
+
+.container_int {
+    background-color: #8a72b3;
+    border-radius: 50px;
+    width: 90px;
+    height: 85px;
+
+    padding: 10px;
+    padding-left: 10px;
+    margin: 5px;
+}
+
+.summary-int {
+    margin-left: 25px;
+}
+
+.container_int1 {
+    background-color: #8a72b3;
+    border-radius: 50px;
+    height: 85px;
+    width: 90px;
+    padding: 10px;
+    padding-left: 10px;
+    margin: 5px;
+    margin-left: 2px;
+}
+
+.container_int4 {
+    background-color: #8a72b3;
+    border-radius: 50px;
+    width: 90px;
+    height: 85px;
+    padding: 10px;
+    padding-left: 10px;
+    margin: 5px;
+    margin-left: 2px;
+
+}
+
+
+.container_last {
+    width: 10px;
+    border-bottom: 4px solid darkblue;
+    border-top: 4px solid darkblue;
+    padding: 0px;
+    margin: 0px;
+}
